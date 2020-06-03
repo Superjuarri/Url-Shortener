@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nexport const Wrapper = styled.footer.withConfig({\n  displayName: \"styles__Wrapper\",\n  componentId: \"hqw1th-0\"\n})([\"background-color:#3f3d56;\"]);","map":null,"metadata":{},"sourceType":"module"}

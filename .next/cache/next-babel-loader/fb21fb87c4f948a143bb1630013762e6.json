@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport { Wrapper } from './styles';\n\nvar Footer = function Footer() {\n  return __jsx(Wrapper, null, __jsx(\"h1\", null, \"Footer\"));\n};\n\nexport default Footer;","map":null,"metadata":{},"sourceType":"module"}
